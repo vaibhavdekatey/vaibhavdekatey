@@ -1,16 +1,37 @@
-## Hi there 👋
+<h2 align="center">Hi, I’m Vaibhav 👋</h2>
 
-<!--
-**vaibhavdekatey/vaibhavdekatey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Frontend engineer crafting clean, fast interfaces for web & mobile.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  ⚛️ React &nbsp;•&nbsp; 🌐 Next.js &nbsp;•&nbsp; 📱 React Native
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ About
+- 🎨 Turn Figma designs into production-ready UI  
+- 🚀 Care about performance, UX, and clean code  
+- 🔁 Build real-world features: auth, payments, real-time data  
+- 🌱 Currently focused on frontend engineering  
+
+---
+
+### 🧰 Tech
+**Frontend**: React, Next.js, React Native, JavaScript, TypeScript  
+**Backend/DB**: Node.js, Supabase, PostgreSQL  
+**Tools**: Git, GitHub, Figma  
+
+---
+
+### 📌 Projects
+Pinned repositories below ⬇️  
+(Production apps, experiments, and things I’m learning)
+
+---
+
+### 🤝 Let’s Connect
+📫 **Email**: vaibhav2001dekatey@gmail.com  
+🔗 **LinkedIn**: https://linkedin.com/in/your-link  
+🌐 **Portfolio**: https://your-portfolio-link
