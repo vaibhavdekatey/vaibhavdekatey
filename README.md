@@ -12,8 +12,6 @@
 
 ### ✨ About
 - 🎨 Turn Figma designs into production-ready UI  
-- 🚀 Care about performance, UX, and clean code  
-- 🔁 Build real-world features: auth, payments, real-time data  
 - 🌱 Currently focused on frontend engineering  
 
 ---
@@ -25,13 +23,7 @@
 
 ---
 
-### 📌 Projects
-Pinned repositories below ⬇️  
-(Production apps, experiments, and things I’m learning)
-
----
-
 ### 🤝 Let’s Connect
 📫 **Email**: vaibhav2001dekatey@gmail.com  
-🔗 **LinkedIn**: https://linkedin.com/in/your-link  
-🌐 **Portfolio**: https://your-portfolio-link
+🔗 **LinkedIn**: https://www.linkedin.com/in/vaibhav-dekatey/ 
+🌐 **Portfolio**: https://vaibhavdekatey.vercel.app/
