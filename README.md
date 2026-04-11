@@ -7,13 +7,6 @@
 <p align="center">
   ⚛️ React &nbsp;•&nbsp; 🌐 Next.js &nbsp;•&nbsp; 📱 React Native
 </p>
-
----
-
-### ✨ About
-- 🎨 Turn Figma designs into production-ready UI  
-- 🌱 Currently focused on frontend engineering  
-
 ---
 
 ### 🧰 Tech
