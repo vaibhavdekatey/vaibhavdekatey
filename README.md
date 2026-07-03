@@ -7,7 +7,6 @@
 <p align="center">
   ⚛️ React &nbsp;•&nbsp; 🌐 Next.js &nbsp;•&nbsp; 📱 React Native
 </p>
----
 
 ### 🧰 Tech
 **Frontend**: React, Next.js, React Native, JavaScript, TypeScript  
